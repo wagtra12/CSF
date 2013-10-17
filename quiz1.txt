@@ -1,9 +1,8 @@
 # Graded by Jason Scott
 # scojas12
 
-import_n from Lab2
+from lab2 import_n
 print n
 n=3
-str="Hello World"
-for i in range(0,4)
-  print str
+for i in range(n):
+  print n, "Hello World"
