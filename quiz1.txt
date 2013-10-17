@@ -1,2 +1,9 @@
 # Graded by Jason Scott
 # scojas12
+
+import_n from Lab2
+print n
+n=3
+str="Hello World"
+for i in range(0,4)
+  print str
