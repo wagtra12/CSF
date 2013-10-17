@@ -1,6 +1,3 @@
-Travis Wagner
-wagtra12
-
 n=13
 series = 'fibonacci'
 
