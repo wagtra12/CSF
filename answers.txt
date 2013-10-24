@@ -1,5 +1,5 @@
-Name: ...
-Evergreen Login: ...
+Name: Travis Wagner
+Evergreen Login: wagtra12
 Computer Science Foundations
 Programming as a Way of Life
 Fall 2013
