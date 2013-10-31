@@ -25,8 +25,10 @@ T-content: 7,661,547
 G-content: 5,738,773
 C-content: 5,879,128
 
-Problem 6: The file test test-high-gc-1.fastq had a number that was different. The sum was smaller than the total count and len(seq). I opened
-up the file and realized that there was a variable N. This is going to make the sums differ because we had not assigned a value to N in the total count. In the test-small.fastq they were all the same because there was no variable n to be counted.
+Problem 6: The file test test-high-gc-1.fastq had a number that was different. The sum was smaller than the total count 
+and len(seq). I opened up the file and realized that there was a variable N. This is going to make the sums differ 
+because we had not assigned a value to N in the total count. In the test-small.fastq they were all the same because 
+there was no variable n to be counted.
 
 gcat= 26,980,735
 total_count=27,000,000
