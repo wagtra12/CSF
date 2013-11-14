@@ -1,0 +1,12 @@
+Programming as a Way of Life
+Homework 6 Problems
+Group 7
+Cardin Nguyen
+Travis Wagner
+
+Problem 3 (if, else, while)
+Problem 4 (types of mappings)
+Problem 5 (tuple)
+Problem 6 (function)
+Problem 7 (Return)
+
