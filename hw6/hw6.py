@@ -55,29 +55,14 @@ print list_c
     
 #problem 7
 
-#create a dictionary from mother with child using for loop
+#for loop
 
-parent = {}
-
-
-for k in mother:
-    parent = {k:ages}
+fruits = ['apple', 'orange',  'pear']
+for fruit in fruits:       
+   print 'Current fruit :', fruit
+  
+ 
     
-    
-print parent
-    
-    
-    
-    
-ages = ('12', '10', '13', '25')
-mother = {'julie':1234, 'jessica':12345, 'monica':0011, 'michelle':911}
 
 
 
-for i in mother:
-    parent = ((zip(mother, ages))
-parent = dict(zip(mother, ages))
-        
-    
-    
-print parent
